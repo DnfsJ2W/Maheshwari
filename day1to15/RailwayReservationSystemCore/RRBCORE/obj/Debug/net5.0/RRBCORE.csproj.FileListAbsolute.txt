@@ -1,0 +1,15 @@
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\bin\Debug\net5.0\RRBCORE.deps.json
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\bin\Debug\net5.0\RRBCORE.runtimeconfig.json
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\bin\Debug\net5.0\RRBCORE.runtimeconfig.dev.json
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\bin\Debug\net5.0\RRBCORE.dll
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\bin\Debug\net5.0\ref\RRBCORE.dll
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\bin\Debug\net5.0\RRBCORE.pdb
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\RRBCORE.csprojAssemblyReference.cache
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\RRBCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\RRBCORE.AssemblyInfoInputs.cache
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\RRBCORE.AssemblyInfo.cs
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\RRBCORE.csproj.CoreCompileInputs.cache
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\RRBCORE.dll
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\ref\RRBCORE.dll
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\RRBCORE.pdb
+C:\Users\ycs\source\repos\RailwayReservationSystemCore\RRBCORE\obj\Debug\net5.0\RRBCORE.genruntimeconfig.cache
